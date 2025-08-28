@@ -21,3 +21,7 @@ var myVar = "Hello, world!";
 "my-var": "my-value"
 }
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
